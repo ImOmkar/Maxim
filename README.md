@@ -1,6 +1,6 @@
 # Maxim
 
-A new Flutter project.
+A new Flutter quote app with delete functionality
 
 ## Getting Started
 
